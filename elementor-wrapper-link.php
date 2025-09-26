@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Wrapper Link (Section, Column, Container)
  * Description: Adds a clickable wrapper (section/column/container) link for Elementor elements. Supports dynamic tags (ACF/JetEngine).
- * Version: 1.3
+ * Version: 1.4
  * Author: Abe Prangishvili
  * Text Domain: elementor-wrapper-link
  */
