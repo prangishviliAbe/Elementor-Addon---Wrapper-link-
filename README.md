@@ -50,7 +50,9 @@ Elementor Wrapper Link adds a clickable wrapper (section/column/container) link 
 - 1.2 — Initial refactor from single-file plugin into structured plugin.
 
 ## License
+
 This project is released under the MIT License. See `LICENSE` for details.
 
 ## Support
+
 Open an issue on GitHub or contact the author.
