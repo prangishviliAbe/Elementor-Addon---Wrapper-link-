@@ -31,11 +31,6 @@ Elementor Wrapper Link adds a clickable wrapper (section/column/container) link 
 
 - The plugin tries to resolve common dynamic-tag return shapes: strings, arrays with `url`/`value`, numeric post IDs, and WP_Post objects. If a dynamic tag does not return a URL as expected, enable WP_DEBUG and check `wp-content/debug.log` for `[ewl]` logs which show what the dynamic tag returned.
 
-## How to add the cover image shown above
-
-1. Save the cover image you provided as `cover.png` (or `cover.jpg`).
-2. Upload it to the `assets/` folder in this repository as `assets/cover.png`.
-3. GitHub will render the image automatically in this README.
 
 ## Developer notes
 
